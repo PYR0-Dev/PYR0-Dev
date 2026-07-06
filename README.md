@@ -23,7 +23,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
 ### 🔗 Connect with me
 
-* 🎥 [YouTube](https://www.youtube.com/@S𱎫)
+* 🎥 [YouTube](https://www.youtube.com/@Pyr0nx-Dev)
 * 🐥 [Twitter](https://x.com/ShamlanAlt)
 * 📧 [Contact](mailto:ShamlanContact@gmail.com)
 
