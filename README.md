@@ -8,7 +8,7 @@ I'm a passionate **cybersecurity enthusiast** and **open-source** developer who 
 
 ---
 
-### ⚡ Dev Setup
+### ⚡Setup
 
 | Component | Details |
 |-----------|---------|
