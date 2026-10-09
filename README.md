@@ -4,7 +4,7 @@
 
 I'm a passionate **cybersecurity enthusiast** and **open-source** developer who loves coding and building projects that actually make a difference.
 
-~ By 12. ⁽ᴺᵒᵗ ᵐʸ ᵃᵍᵉ⁾
+~ By 12. ⁽ᴺᵒᵗ ᵐʸ ᵃᵍᵉ ᵈᵘʰ⁾
 
 ---
 
